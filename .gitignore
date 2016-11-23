@@ -1,0 +1,14 @@
+.idea/
+build.sbt
+project/
+target/
+
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
